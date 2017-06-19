@@ -1,0 +1,21 @@
+* {
+  font-family: Helvetica;
+}
+
+h3 {
+  color: crimson;
+}
+
+p {
+  font-style: italic;
+}
+
+div.codeblock {
+  background-color: #dedede;
+  padding: 5px;
+  display: none;
+}
+
+code {
+  font-family: Courier;
+}
