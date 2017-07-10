@@ -37,7 +37,7 @@
 
 - Discussion of reading assignments (links at the bottom of this doc)
 
-Code Fellows course kickoff session with Campus Director Brandy Rhodes -->
+Code Fellows course kickoff session with Campus Director Brandy Rhodes
 
 - Overview of MVC
 	- [One diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/200px-MVC-Process.svg.png)
@@ -56,7 +56,7 @@ Code Fellows course kickoff session with Campus Director Brandy Rhodes -->
 - Review of today's lab assignment
 	- Let's develop some mobile/responsive super-powers!
 	- With a pair, make the blog responsive, so it hides the main navigation menu under a "Hamburger" link on small screens, and unfurls to a row of tab-like links on larger screens.
-	- Then, see how you can apply these same ideas in your portfolio!
+	- Then, see how you can apply these same ideas in your portfolio! -->
 
 
 ---
