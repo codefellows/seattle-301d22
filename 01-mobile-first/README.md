@@ -8,7 +8,7 @@
 
 ## Daily Plan
 
-- 301 is different from 201. ***Very*** different. Let's talk about that...how/when you learned to use the internet, then learned to make things for it. There's a pattern we need to keep in mind.
+<!-- - 301 is different from 201. ***Very*** different. Let's talk about that...how/when you learned to use the internet, then learned to make things for it. There's a pattern we need to keep in mind.
 
 - Overview of course structure/setup
   1. The evolving blog & starter code
@@ -37,7 +37,7 @@
 
 - Discussion of reading assignments (links at the bottom of this doc)
 
-Code Fellows course kickoff session with Campus Director Brandy Rhodes
+Code Fellows course kickoff session with Campus Director Brandy Rhodes -->
 
 - Overview of MVC
 	- [One diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/200px-MVC-Process.svg.png)

@@ -15,7 +15,7 @@
 
 ## Daily Plan
 
-- How are everyone's Postgres setups? We need those solid by Wednesday. If you had problems during installation/setup, let's address those in the next couple of days.
+<!-- - How are everyone's Postgres setups? We need those solid by Wednesday. If you had problems during installation/setup, let's address those in the next couple of days.
 
 
 - Code Review/Q&A (let's try to keep it short, because there is a load of new stuff to get to today)
@@ -48,7 +48,7 @@
 - Lab Prep
 	- Let's review the starter code and TODOs!
 	- But first, let's look at the working solution.
-	- Note that this code uses new ES6 styles of variable declarations including  `let` and `const`
+	- Note that this code uses new ES6 styles of variable declarations including  `let` and `const` -->
 
 ---
 

@@ -18,7 +18,7 @@ Today's schedule on one-on-one meetings, that I'll do in one of the little meeti
 
 ## Daily Plan
 
-**Discussion on project ideas**
+<!-- **Discussion on project ideas**
 
 A few more prior 301 projects:
 
@@ -76,7 +76,7 @@ A few more prior 301 projects:
 
 - Look at the README
 - Lots of REVIEW items in the code to look at
-- Find the TODO items in the code
+- Find the TODO items in the code -->
 
 ## Learning Objectives
 <!--

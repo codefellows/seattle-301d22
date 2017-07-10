@@ -13,7 +13,7 @@ Things are starting to change in a big way as we start looking at how server-sid
 
 ## Daily Plan
 
-- Code Review: The goal for today is to ensure that we have solid understanding of the architecture of the blog app, and what all of the individual pieces are doing, and how they interact.
+<!-- - Code Review: The goal for today is to ensure that we have solid understanding of the architecture of the blog app, and what all of the individual pieces are doing, and how they interact.
 
 - [JSONLint](http://jsonlint.com/) is your friend when you are trying to create JSON for your portfolio assignment. It will help your track down malformed JSON.
 
@@ -51,7 +51,7 @@ Things are starting to change in a big way as we start looking at how server-sid
 		- [app.get()](https://expressjs.com/en/api.html#app.get.method)
 		- [app.listen()](https://expressjs.com/en/api.html#app.listen)
 - Lab Prep
-	- Let's review the starter code and TODOs!
+	- Let's review the starter code and TODOs! -->
 
 ---
 

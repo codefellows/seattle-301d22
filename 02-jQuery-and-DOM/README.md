@@ -8,7 +8,7 @@
 
 ## Daily Plan
 
-- Code Review and Q&A (20-25 min.)
+<!-- - Code Review and Q&A (20-25 min.)
 - Discussion on the Portfolio assignment (20-25 min)
 
 `10-minute break`
@@ -26,7 +26,7 @@
   - Overview: directory structure
   - Overview: how the lab code works
   - Look at the TODOs and any REVIEW items
-	- Portfolio: daily workflow over the entire course
+	- Portfolio: daily workflow over the entire course -->
 
 ---
 

@@ -7,7 +7,7 @@
 
 ## Daily Plan
 
-- Career Development (CD) session with Brandy (20-30 minutes)
+<!-- - Career Development (CD) session with Brandy (20-30 minutes)
 - Code Review+ Q&A (20-30 minutes)
 
 `10-minute break`
@@ -44,7 +44,7 @@
 		- .on()
 		- .parent()
 		- .text()
-		- .val()
+		- .val() -->
 
 ## Learning Objectives
 <!--

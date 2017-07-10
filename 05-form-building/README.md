@@ -13,39 +13,13 @@ We'll not work to a schedule, but instead work for an hour or so, take a break, 
 
 ## Daily Plan
 
-Code review (we'll go until everyone has had a chance to talk about some code)
-
----
-
-  ```10 minute break```
-
----
+<!-- Code review (we'll go until everyone has had a chance to talk about some code)
 
 Start working on the form building workshop, go until 11:30 or 11:45 or so, whenever we hit a good stopping point.
 
----
-
-  ```30-45 minute break```
-
----
-
-12:15-1:00p: [Partner Power Hour](https://www.eventbrite.com/e/partner-power-hour-tips-for-scoring-your-first-role-as-a-software-developer-tickets-34526163685) with my friend Jason Greer from GeneralUI.
-
----
-
-  ```15 minute break```
-
----
-
 1:15p: Resume working on the form workshop (go for an hour or so, until we hit a good stopping point)
 
----
-
-  ```10 minute break```
-
----
-
-Finish the workshop around 3:30, +/- 30 minutes or so. You'll have the rest of the day to do the paired portfolio assignment.
+Finish the workshop around 3:30, +/- 30 minutes or so. You'll have the rest of the day to do the paired portfolio assignment. -->
 
 ---
 

@@ -9,7 +9,7 @@ Databases power web applications everywhere by enabling them to persist, modify,
 - Reminder: There is **NO** portfolio assignment associated with today, so that means you can set that aside briefly (other than getting caught up...), and tomorrow's portfolio assignment is another peer review that's you'll do with your assigned lab partner for Friday.
 
 ## Daily Plan
-
+<!--
 - Code Review
 - Installation of Postgres progress?
 - Be aware that the setup and initialization challenges with the first run of a Postgres environment are often shared by individuals with the same operating systems. It's a good idea to gather in those tribes and share those details when getting started with today's lab.
@@ -57,7 +57,7 @@ Databases power web applications everywhere by enabling them to persist, modify,
 
 - ***Review of lab code***
 
-- Questions on the lab?
+- Questions on the lab? -->
 
 ---
 

@@ -7,7 +7,7 @@
 
 ## Daily Plan
 
-- Project Week is coming! There is a Canvas assignment to discuss project ideas; we will do so as a group at the beginning of class tomorrow.
+<!-- - Project Week is coming! There is a Canvas assignment to discuss project ideas; we will do so as a group at the beginning of class tomorrow.
 
 -  Friday we'll get Project Week underway! Teams will be able to pick whatever project they want from a list of approved ideas, or propose a new one.
 
@@ -63,7 +63,7 @@
 - [Wikipedia: REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 - [Who the heck is Roy Fielding?](https://en.wikipedia.org/wiki/Roy_Fielding)
 - [Make that Dr. Roy Fielding, whose doctoral dissertation initially defined REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
-- [SOAP vs REST](http://blog.smartbear.com/apis/understanding-soap-and-rest-basics/)
+- [SOAP vs REST](http://blog.smartbear.com/apis/understanding-soap-and-rest-basics/) -->
 
 ## Learning Objectives
 <!--

@@ -12,7 +12,7 @@ We need to be attentive to when a server request is being made versus when the r
 
 ## Daily Plan
 
-- One-on-one meetings: I'd like to do a 15-minute one-on-one meeting with each of you to assess how things are going and help you move forward in the best way. Visit [this link][https://sam-301d20.youcanbook.me] to schedule a time; this will flow directly into my calendar.
+<!-- - One-on-one meetings: I'd like to do a 15-minute one-on-one meeting with each of you to assess how things are going and help you move forward in the best way. Visit [this link][https://sam-301d20.youcanbook.me] to schedule a time; this will flow directly into my calendar.
 
 - Code Review
 
@@ -57,7 +57,7 @@ We need to be attentive to when a server request is being made versus when the r
   2. Look at how `history` is used in PageJS
 	3. Docs!
 
-**Review of the code for lab**
+**Review of the code for lab** -->
 
 
 ## Learning Objectives

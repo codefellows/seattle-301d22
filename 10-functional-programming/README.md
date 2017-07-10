@@ -7,7 +7,7 @@ The focus of this class is on basic functional programming concepts, through the
 
 ## Daily Plan
 
-It's a ***BIG*** day on campus, lots going on, and we'll adapt our schedule accordingly:
+<!-- It's a ***BIG*** day on campus, lots going on, and we'll adapt our schedule accordingly:
 
 - **9:00-10:15ish:** Part 1 of lecture
 - **10:30ish-11:45:** Part 2 of lecture after a 15-minute break
@@ -66,7 +66,7 @@ It's a ***BIG*** day on campus, lots going on, and we'll adapt our schedule acco
 
 **Lab Prep**
 
-- Let's review the starter code and TODOs!
+- Let's review the starter code and TODOs! -->
 
 ---
 

@@ -7,14 +7,8 @@ Templates have some advantages over direct DOM manipulation. Leverage those stre
 
 ## Daily Plan
 
-- **Code review:** Let's take a deep look at yesterdays lab assignment
+<!-- - **Code review:** Let's take a deep look at yesterdays lab assignment
   - It's been a tough couple of days, as we've just kinda thrown you into the deep end with jQuery. That kind of immersion can kick in some survival instinct to help you find your way, and that's a good thing. From here on we will be working on refining our understanding of jQuery and ensuring that it effectively overlaps the fundamentals.
-
----
-
-  ```10 minute break```
-
----
 
 - **Assorted topics to hit quickly**
 	- Typography: HUGE topic, as mentioned a couple of days ago; a few resources at bottom of this doc
@@ -42,19 +36,13 @@ Templates have some advantages over direct DOM manipulation. Leverage those stre
 - Handlebars lets us get rid of a lot of the "[brittle](http://lmgtfy.com/?q=brittle+code)" jQuery.
 - Look at the [tryhandlebarsjs.com](http://tryhandlebarsjs.com/) demos!
 
----
-
-```10 minute break```
-
----
-
 - [Code demo](https://github.com/codefellows/301-04-handlebars-demo) for us to hack together!
 
 - **Lab prep**
 	- Let's review the starter code and TODOs!
   	- The skinny: you're getting rid of the old templating and replacing it with Handlebars!
   	- 'Staches FTW!
-  	- **{{WIN}}**
+  	- **{{WIN}}** -->
 
 ---
 
@@ -75,7 +63,7 @@ ABCD:
 
 * Distinguish between the different Handlebars expression types ( **{{}}** vs **{{{}}}** ).
 
-* Modify and style typographic components (**serif, san-serif fonts, font-size, font-family, color, font-weight**, etc)
+* Modify and style typographic components (**serif, san-serif fonts, font-size, font-family, color, font-weight**)
 
 ---
 

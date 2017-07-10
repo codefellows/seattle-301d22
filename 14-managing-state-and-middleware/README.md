@@ -6,7 +6,7 @@
 
 ## Daily Plan
 
-- Project samples! Here's a couple more!
+<!-- - Project samples! Here's a couple more!
 	- [Baby Safe](http://baby-safe.herokuapp.com/)
 	- [Seattle Field Finder](https://field-finder.herokuapp.com/)
 
@@ -49,7 +49,7 @@
 
 **Discuss the article on Google's research on teams** (as time allows)
 
-**Look at the lab code** (as time allows)
+**Look at the lab code** (as time allows) -->
 
 ## Learning Objectives
 

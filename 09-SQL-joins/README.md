@@ -9,7 +9,7 @@ The purpose of this class is to introduce the concepts of database normalization
 
 ## Daily Plan
 
-**Code Review!!**
+<!-- **Code Review!!**
 
 `10 minute break`
 
@@ -48,7 +48,7 @@ Also see this [reference document on joins](joins.md)
 
 ##### Lab Prep
 
-- Be sure to carefully follow the setup instructions in the lab README to get today's lab up and running. You need to do a DROP TABLE on the articles table from yesterday's lab to prevent problems. Today we have two tables, one of which, 'articles', is the same name as the table we used yesterday but has a different structure, so it needs to be obliterated.
+- Be sure to carefully follow the setup instructions in the lab README to get today's lab up and running. You need to do a DROP TABLE on the articles table from yesterday's lab to prevent problems. Today we have two tables, one of which, 'articles', is the same name as the table we used yesterday but has a different structure, so it needs to be obliterated. -->
 
 ---
 
