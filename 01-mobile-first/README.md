@@ -8,10 +8,6 @@
 
 ## Daily Plan
 
-We'll be doing class in four hour-long segments today.
-
-**9:00a**
-
 - 301 is different from 201. ***Very*** different. Let's talk about that...how/when you learned to use the internet, then learned to make things for it. There's a pattern we need to keep in mind.
 
 - Overview of course structure/setup
@@ -41,15 +37,7 @@ We'll be doing class in four hour-long segments today.
 
 - Discussion of reading assignments (links at the bottom of this doc)
 
-`10-minute break`
-
-**10:00a**
-
 Code Fellows course kickoff session with Campus Director Brandy Rhodes
-
-`10-minute break`
-
-**11:00a**
 
 - Overview of MVC
 	- [One diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/200px-MVC-Process.svg.png)
@@ -61,10 +49,6 @@ Code Fellows course kickoff session with Campus Director Brandy Rhodes
   2. RWD
 
 - Responsive design code demo: media queries FTW!
-
-`one-hour lunch break`
-
-**1:00p**
 
 - Deep code review of the starter code...
 - But first... let's see the solution in action!
