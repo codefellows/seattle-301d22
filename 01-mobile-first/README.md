@@ -8,26 +8,40 @@
 
 ## Daily Plan
 
-<!-- - 301 is different from 201. ***Very*** different. Let's talk about that...how/when you learned to use the internet, then learned to make things for it. There's a pattern we need to keep in mind.
+- Intros!
 
 - Overview of course structure/setup
   1. The evolving blog & starter code
-  2. The ongoing portfolio assignment
+  2. The ongoing portfolio assignment & Learning Journal
   3. Git flow for labs, all pairs all the time!
   4. Live-server (for now!)
 
 - Typical daily pattern
-  - Code Review
-  - Lecture/slides/demos on new content
-  - Review of the starter code and TODO items for lab
+  1. Code Review
+  2. Lecture/demos on new content
+  3. Review of the starter code and TODO items for lab
 
 - Our many tools...
-  - GitHub: lecture repo and lab organization
-  - Canvas
-  - Slack
-  - YouTube
-	- CodePen
-	- repl.it
+  1. GitHub: lecture repo and lab organization
+  2. Canvas
+  3. Slack
+  4. YouTube
+
+
+- Day 1:
+  1. MVC Overview
+  2. RWD & Mobile First
+  3. Flexible Layouts (formula)
+    * Media Queries
+    * Scalable Media
+    * Fluid Grid
+  4. Viewport Tags
+    * Live Demo: 172.16.0.24:8080
+  5. Icon Fonts
+  6. Resets & Base stylesheets
+  7. SMACSS
+
+<!--
 
 - The MOST USEFUL tool: **The Docs**
   - Learning to autonomously read/use documentation is a critical skill for all devs. You'll also be gaining appreciation and skills for writing docs for your own work as well.
@@ -36,8 +50,6 @@
   - In other words... [what does the docs say?](https://www.youtube.com/watch?v=jofNR_WkoCE) ;-)
 
 - Discussion of reading assignments (links at the bottom of this doc)
-
-Code Fellows course kickoff session with Campus Director Brandy Rhodes
 
 - Overview of MVC
 	- [One diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/200px-MVC-Process.svg.png)
