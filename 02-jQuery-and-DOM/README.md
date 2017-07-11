@@ -8,25 +8,16 @@
 
 ## Daily Plan
 
-<!-- - Code Review and Q&A (20-25 min.)
-- Discussion on the Portfolio assignment (20-25 min)
+- Notes:
+  1. Blog/Portfolio - lessons learned? questions?
 
-`10-minute break`
-
-- Slides: Agile Web Development slides
-- Slides: jQuery and the DOM
-- Duckett JS textbook: pp.293-325 are a reference
-- [jQuery Cheat sheet](http://oscarotero.com/jquery)
-- jQuery: Store it locally or use a CDN?
-
-`10-minute break`
-
-- Review of today's lab and portfolio assignments
-  - Look at a working version
-  - Overview: directory structure
-  - Overview: how the lab code works
-  - Look at the TODOs and any REVIEW items
-	- Portfolio: daily workflow over the entire course -->
+- Code Review
+- SMACSS (continued from yesterday)
+- Intro to jQuery - all the selectors
+  1. jQuery cheatsheet
+  2. Manipulation & Traversals
+  3. Method chaining (do we know what that is yet?)
+- Lab Review - More in depth time with the starter code today...
 
 ---
 
