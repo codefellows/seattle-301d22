@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>jquery events</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li class="nav-items"><a href="#" data-tab="delegation">Delegation</a></li>
+          <li class="nav-items"><a href="#" data-tab="attributes" id='scott'>Attributes</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+
+      <section class="tab-content" id="delegation">
+        <ul class="menus" id="menu1">
+          <h2>Menu 1</h2>
+          <li class="menu-item">Item1</li>
+          <li class="menu-item">Item2</li>
+          <li class="menu-item">Item3</li>
+        </ul>
+
+        <ul class="menus" id="menu2">
+          <h2>Menu 2</h2>
+          <li class="menu-item">Item4</li>
+          <li class="menu-item">Item5</li>
+          <li class="menu-item">Item6</li>
+        </ul>
+
+        <button type="button" name="adder1" data-menu="menu1">Add a list to menu 1</button>
+        <button type="button" name="adder2" data-menu="menu2">Add a list to menu 2</button>
+      </section>
+
+
+      <section class="tab-content" id="attributes">
+        <h2>hello world</h2>
+      </section>
+
+
+    </main>
+    <footer>
+
+    </footer>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
