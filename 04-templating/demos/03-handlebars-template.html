@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.min.js"></script>
+
+    <script type="text/x-handlebars-template" id="template">
+      <section>
+        <p>{{ title }}</p>
+        <ul>
+          <li>{{ name }}</li>
+          <li>{{ age }}</li>
+          <li>{{{ favoriteFood }}}</li>
+        </ul>
+      </section>
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <script type="text/javascript">
+      var person = {
+        name: 'Bob',
+        title: 'Ninja',
+        age: 44,
+        favoriteFood: '<h2>beer</h2>'
+      }
+
+      // var template = $('#template').html()
+      // var compile = Handlebars.compile(template)
+      // var newSection = compile(person)
+      //
+      // $('#app').append(newSection)
+
+      var compile = Handlebars.compile($('#template').html())
+      $('#app').append(compile(person))
+
+    </script>
+  </body>
+</html>

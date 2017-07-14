@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <script type="text/template" id="template">
+      Hello {{0}}, my name is {{1}}, and I am a {{2}}.
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <script type="text/javascript">
+      // Target the app div and append the content of our template
+      // 0=>world, 1=>Scott, 2=>dev
+
+      function compile(tmpl, data) {
+        return tmpl.replace(/{{(\d+)}}/g, function(match, number) {
+          console.log('match', match)
+          console.log('number', number)
+          console.log(data)
+          return data[number]
+        })
+      }
+
+      var template = $('#template').html()
+      var content = compile(template, ['world', 'Scott', 'dev'])
+      $('#app').append(content)
+    </script>
+  </body>
+</html>
