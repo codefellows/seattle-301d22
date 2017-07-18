@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>It's Justin Time</title>
+    <script type="text/x-handlebars-template" id="entryTemplate">
+      <h2>{{title}}</h2>
+      <h3>Written on {{date}} by {{author}}.</h3>
+      <h4>Category: {{category}} | Mood: {{mood}}</h4>
+      <p>{{text}}</p>
+    </script>
+  </head>
+  <body>
+    <h1>It's Justin Time</h1>
+    <!-- make a form with title, date, category, mood, text, and author fields -->
+    <section>
+      <form id="entryForm" action="#">
+        <!-- <fieldset> -->
+          <legend>Justin Entry</legend>
+          <label>
+            Title
+            <!-- TODO: settle the argument about closing input tags once and for all -->
+            <input type="text" id="entryTitle" placeholder="Title">
+          </label>
+          <label>
+            Category
+            <input type="text" id="entryCategory" placeholder="Category">
+          </label>
+          <label>
+            Mood
+            <input type="text" id="entryMood" placeholder="Mood">
+          </label>
+          <label>
+            Author
+            <input type="text" id="entryAuthor" placeholder="Author">
+          </label>
+          <label>
+            Text
+            <textarea rows="10"  id="entryText"  placeholder="Text"></textarea>
+          </label>
+          <submit id="save">Save Entry</submit>
+        <!-- </fieldset> -->
+      </form>
+    </section>
+    <!-- stretch goal: save button -->
+    <section id="entryPreview">
+    </section>
+    <section id="existingEntries">
+    </section>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.4/handlebars.js"></script>
+    <script src="scripts/app.js">
+    </script>
+    <script>view.init()</script>
+  </body>
+</html>
+<!--
+// we need to be able to write
+// be able to write about justin bieber - his hair, tattoos,
+// list of pictures of justin bieber
+
+
+
+// array of justin quotes
+// sorting?
+
+new entries
+
+ -->
