@@ -15,40 +15,21 @@
 
 ## Daily Plan
 
-<!-- - How are everyone's Postgres setups? We need those solid by Wednesday. If you had problems during installation/setup, let's address those in the next couple of days.
+- Notes:
+	- What's top of mind?
+	- What did you learn on Friday?
 
+- Code Review
 
-- Code Review/Q&A (let's try to keep it short, because there is a load of new stuff to get to today)
-- Slides: AJAX & JSON Overview
-	- The HTTP Party
-	- JSON
-	- AJAX
+- Week 2 Review - what's coming up
+	- Model / Persistence Layer
+- What's in a URL
+- Web Request Response Cycle (WRRC)
+- JSON Review
+- Introduction to jQuery's AJAX Requests
+- ES6 `let` & `const`
 
-`10-minute break`
-
-- *(finish slides if needed)*
-- Key points of the readings that we'll need, and demo some of them:
-	- Duckett JS book, pp.367-408
-		- p.370: What is [AJAX](https://en.wikipedia.org/wiki/Ajax_(mythology))?
-		- p.371: Why use AJAX?
-		- p.372: **How AJAX works**
-		- p.373: Handling AJAX requests and responses *("vanilla AJAX")*
-		- p.374: Data formats *(All you need to know is that JSON rules)*
-		- p.376: JSON
-		- p.382: Loading JSON with AJAX
-		- p.388: **jQuery & AJAX: requests**
-		- p.389: **jQuery & AJAX: responses**
-		- p.392: jQuery's AJAX shorthand methods
-		- p.408: **Summary of the AJAX & JSON chapter**
-
-- **AJAX demo**
-
-`10-minute break`
-
-- Lab Prep
-	- Let's review the starter code and TODOs!
-	- But first, let's look at the working solution.
-	- Note that this code uses new ES6 styles of variable declarations including  `let` and `const` -->
+- Lab preview
 
 ---
 

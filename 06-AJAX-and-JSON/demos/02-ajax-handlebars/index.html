@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.min.js"></script>
+
+    <script type="text/x-handlebars-template" id="template">
+      {{#each persons}}
+        <ul>
+          <h2>{{name}}</h2>
+          <li>{{height}}</li>
+          <li>{{hair_color}}</li>
+          <li>{{eye_color}}</li>
+        </ul>
+      {{/each}}
+    </script>
+  </head>
+  <body>
+    <button type="button" id="prev">Prev</button>
+    <button type="button" id="next">Next</button>
+    
+    <div id="app"></div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
