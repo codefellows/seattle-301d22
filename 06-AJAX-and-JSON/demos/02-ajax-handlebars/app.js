@@ -19,8 +19,23 @@ $.getJSON('https://swapi.co/api/people')
 .then(successCallback, errorCallback)
 
 
+// $.getJSON('https://swapi.co/api/people/1', function(data) { // 1MB
+//   // do all the data
+//   $.getJSON('https://swapi.co/api/people/2', function(data) { // 50MB
+//     // do all the data
+//     $.getJSON('https://swapi.co/api/people/3', function(data) { // 100MB
+//       // do all the data
+//     })
+//   })
+// })
+
+
+
 $('#next').on('click', function() {
-  $.getJSON(next).then(successCallback, errorCallback)
+  $.getJSON(next)
+  .then(successCallback, errorCallback)
+
+  someOtherFunction()
 })
 
 $('#prev').on('click', function() {
