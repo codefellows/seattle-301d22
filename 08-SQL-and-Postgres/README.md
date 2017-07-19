@@ -9,55 +9,17 @@ Databases power web applications everywhere by enabling them to persist, modify,
 - Reminder: There is **NO** portfolio assignment associated with today, so that means you can set that aside briefly (other than getting caught up...), and tomorrow's portfolio assignment is another peer review that's you'll do with your assigned lab partner for Friday.
 
 ## Daily Plan
-<!--
+
+- Notes:
+  - Admissions: Next Steps! (1-115p)
+
 - Code Review
-- Installation of Postgres progress?
-- Be aware that the setup and initialization challenges with the first run of a Postgres environment are often shared by individuals with the same operating systems. It's a good idea to gather in those tribes and share those details when getting started with today's lab.
-- We'll plan to do a big review of the lab code in the third segment class today. Sam won't publish the lab until we are finished with class; you should be 100% dialed on the class discussion and not futzing around on your own screen, other than to take some notes.
+- Lets build an express server again...
+- SQL/Postgres Intro
+  - SQL shell/raw SQL
+- Node Postgres Package (PG)
+- Lab Preview
 
-- [Postgres article on Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)
-
-`10-minute break`
-
-**Slides on SQL**
-
-- A little bit of a REST reminder to start off
-
-- CRUD
-	- Databases as a resource
-	- C = CREATE
-	- R = READ
-	- U = UPDATE
-	- D = DESTROY (or DELETE)
-
-- Relational Databases
-	- Discuss differences between document based storage
-	- Discuss common DBMS - MySQL, PostgreSQL, SQLite, etc
-	- Discuss concepts of relational data
-
-- SQL
-	- Syntax
-	- Statements
-	- Clauses
-	- Constraints
-	- Expressions
-	- Predicates
-	- [SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
-
-- Data types
-	- INTEGER
-	- NOT NULL
-	- PRIMARY KEY
-	- CHAR
-	- VARCHAR
-
-
-
-`10-minute break`
-
-- ***Review of lab code***
-
-- Questions on the lab? -->
 
 ---
 
