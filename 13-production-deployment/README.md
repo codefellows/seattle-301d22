@@ -6,77 +6,14 @@
 
 Today's schedule on one-on-one meetings, that I'll do in one of the little meeting rooms in the catacombs. Just head over when it is your time:
 
-- 1:45 Rylee
-- 2:00 Joshua
-- 2:15 Derek
-- 2:30 Said
-- 2:45 Fortunado
-- 3:00 Scott
-- 3:15 Michael Porter
-- 3:30 Mathew
-- 3:45 Izzy
-
 ## Daily Plan
 
-<!-- **Discussion on project ideas**
-
-A few more prior 301 projects:
-
-- [Dinner and a Movie](https://dinner-and-a-movie.herokuapp.com/)
-- [Do You Even Steam?](https://do-you-even-steam.herokuapp.com/)
-- [Sounds Good](http://soundsgood-301.herokuapp.com/)
-- [The 4th Bling](https://bling-4th-the-money.herokuapp.com/)
-- [Meteorite Mapper](https://meteorite-mapper.herokuapp.com/)
-
-**Code Review as time allows**
-
-`BREAK (10 minutes)`
-
-**Slides: Agile Web Development**
-
- - Agile vs. Waterfall
- - Pair Programming
- - Standups
- - User Stories
-
-**Slides: Deployments**
-
-- Development vs. Production
-- Managing Complexity
-- Separation of Concerns
-- Environment Variables
-- Local & Remote Server Environments
-
-**Slides: Heroku**
-
-- Productivity
-- Better Apps
-- Trusted Platform
-- Deployment Workflow: releases & easy rollbacks
-- Logging
-- Sharing
-- Dynos
-- Add-ons
-
-**Key question: What to do with the GitHub token?**
-
-- Do not want to push it to GitHub!
-- How to make it accessible to a remote server yet still protected?
-- `npm i --save express-request-proxy`
-
-`BREAK (10 minutes)`
-
-**DEPLOYMENT DEMO**
-
-- Let's make a few changes to yesterday's demo and get it deployed!
-- More on client-side vs. server-side routing
-- How to set environment variables locally and on Heroku
-
-**Discuss the lab assignment**
-
-- Look at the README
-- Lots of REVIEW items in the code to look at
-- Find the TODO items in the code -->
+- Notes:
+  - Spare time project: [Open source contributions](https://github.com/MunGell/awesome-for-beginners)
+- Code Review
+- Deployment overview
+- Deployment w/Heroku
+- Lab Preview
 
 ## Learning Objectives
 <!--
